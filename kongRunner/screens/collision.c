@@ -1,6 +1,6 @@
 
 #include "collision.h"
-#include "librays/raylib.h"
+#include "../librays/raylib.h"
 
 void collision(int meters, int screenHeight, int screenWidth) {
     while (!WindowShouldClose()) {
