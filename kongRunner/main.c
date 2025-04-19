@@ -1,5 +1,5 @@
 #include "librays/raylib.h"
-#include "game/game.h"
+#include "kong/game.h"
 #include "utils/map.h"
 #include "screens/start.h"
 #include "screens/collision.h"
