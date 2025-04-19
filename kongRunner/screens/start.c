@@ -1,6 +1,6 @@
 
 #include "start.h"
-#include "librays/raylib.h"
+#include "../librays/raylib.h"
 
 extern Texture2D background;
 extern float groundX1, groundX2;
