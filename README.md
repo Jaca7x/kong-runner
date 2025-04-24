@@ -34,14 +34,7 @@ Score tracking and display on screen
        <strong>C</strong> is a powerful and efficient programming language. It is widely used for system-level development, embedded systems, and game engines.Learning C helps build a solid foundation in logic, memory management, and performance-focused code.
     </td>
   </tr>
-  <tr>
-    <td><img src="readme/ChatGPT-Logo.svg.png" alt="ChatGPT Logo" width="400"/></td>
-    <td>
-      <strong>ChatGPT</strong> was used as a learning assistant throughout this project.
-      It helped with understanding C syntax, getting code suggestions, fixing bugs, and learning how to use the Raylib library.
-      A great tool for beginners to ask questions, test ideas, and improve their coding logic in real time.
-    </td>
-  </tr>
+
 </table>
 
 # KONG RUNNER GAMEPLAY
